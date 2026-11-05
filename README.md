@@ -1,16 +1,21 @@
-## Hi there 👋
+# Islam M. Momtaz (He/Him)
 
-<!--
-**IMomtaz/IMomtaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Researcher // Educator // Senior Civil Engineer
 
-Here are some ideas to get you started:
+Cognitive Science & AI, Tilburg University  
+JADS, 's-Hertogenbosch / Eindhoven University of Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I research AI for predictive maintenance, with a focus on water and electricity infrastructure through the ILUSTRE project. My work connects machine learning with practical maintenance problems and collaboration with industry and utility partners in the Netherlands and the Caribbean.
+
+My background combines civil engineering, information technology, and computer science education. I have taught Python, Java, AP Computer Science, and robotics.
+
+## Research and contributions
+
+- **Health-Aware Transformer:** research on improving predictive maintenance, presented at BNAIC/BeNeLearn 2025.
+- **LLM output consistency:** contributed to the [Contractuo experiments](https://github.com/peg-danielse/consistant-contracts) for the ICT with Industry workshop at the Lorentz Center.
+
+I am interested in connecting AI research with practical infrastructure and industrial applications.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/momtaz/)
